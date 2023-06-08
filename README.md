@@ -93,9 +93,10 @@ NOTE: You don't have to use any pre-trained model using Transfer learning. All t
 
 * **Class Rebalance Really Helped** with **Good Model Performance & Accuracy with No Overfitting** shows evidence issues are resolved.
 
-## Contact
-Created by [GURPREET KAUR JETHRA](https://github.com/GURPREETKAURJETHRA) - feel free to contact me!
-
 <!-- This project is Assignment given Under IIT-B & Upgrad In Deep Learning Specialization.-->
 
+### Acknowledgement:
+This Project Assignment was part of Curriculum during **EPGP-DataScience AI-ML (Deep Learning Spec) from IIIT-B.**
+
+***@All Rights Reserved*** [**Gurpreet Kaur Jethra**](https://github.com/GURPREETKAURJETHRA)
 
